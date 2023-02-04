@@ -1,0 +1,7 @@
+*~
+*.orig
+*.rej
+Gemfile.lock
+.kitchen
+.bundle
+vendor
